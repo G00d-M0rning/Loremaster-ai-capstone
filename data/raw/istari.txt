@@ -1,0 +1,19 @@
+TITLE: Istari
+SOURCE: https://tolkiengateway.net/wiki/Istari
+SOURCE SITE: Tolkien Gateway
+LICENSE: CC BY-SA 4.0
+
+## SECTION: Introduction
+Main article: Wizards Istar (pl. Istari ) A Quenya word meaning approximately " Wise One ", translated as " Wizard ", or "those who know".
+
+## SECTION: Etymology
+The word comes from the verb ista- ("to know"), and possibly the agentive ending -ro .
+
+## SECTION: Other forms
+Istarion : "of Wizards" ( genitive plural )
+
+## SECTION: Cognates
+Sindarin ithron
+
+## SECTION: Examples
+Heren Istarion Istar , the original, discarded, name of Tar-Míriel

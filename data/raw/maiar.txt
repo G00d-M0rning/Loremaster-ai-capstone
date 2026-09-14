@@ -1,0 +1,22 @@
+TITLE: Maiar
+SOURCE: https://tolkiengateway.net/wiki/Maiar
+SOURCE SITE: Tolkien Gateway
+LICENSE: CC BY-SA 4.0
+
+## SECTION: Introduction
+The Maiar (plural for Maia) were those spirits which descended into Ëa to assist the Valar in the shaping of Arda . The Maiar and Valar were collectively known as the Ainur , though the Maiar were of lesser power and majesty. Their number is unknown and few were named, and not all took visible shapes in Middle-earth .
+
+## SECTION: History
+Chief among the Maiar were Eönwë , the banner-bearer and herald of Manwë who led the Host of the West in the War of Wrath , and Ilmarë , the handmaid of Varda . Also notable among the Maiar were Arien , a maiden of Vána , and Tilion , a hunter of Oromë . Arien guided the vessel of the Sun through Ilmen and Tilion guided the Moon . They were given this task after Morgoth and Ungoliant destroyed the Two Trees , Laurelin and Telperion , during the Darkening of Valinor . Each of the Maiar was associated with one or more particular Vala or Valie. For example, Ossë and Uinen , as spirits of the Sea , were vassals of Ulmo . The Maia Salmar - also of Ulmo's people - was the maker of the Ulumúri , great horns through which Ulmo produced the music of the sea. Melian , who served the Valier Vána and Estë , would later become wife to King Thingol of Doriath and mother to Lúthien . Mairon , originally a pupil of Aulë the Smith, later became known as the Dark Lord Sauron. Also serving under Aulë's tutelage was Curunír , who would later become known as Saruman the White. Aiwendil , later known as Radagast the Brown, belonged to the people of Yavanna . Olórin , the wisest of the Maiar, was a servant to both Manwë and Varda - though he often found himself in the house of Nienna , from whom he learned pity and patience. He would later be known as Gandalf the Grey. These three Maiar would come to be counted among the order of the Istari , more commonly known as the "Wizards", who were sent by the Valar to assist the free peoples of Middle-earth in their efforts against Sauron in the Third Age . Of the remaining two Wizards, little is told. Sent by the Vala Oromë , they clad themselves in sea-blue and traveled together to the East and came to be called the Ithryn Luin , or "Blue Wizards" . Among their many varied names were Alatar and Palando, Morinehtar and Rómestámo, as well as Palacendo and Haimenar. However, they never returned and their later fate is unknown. The Balrogs or Valaraukar were of a separate class of spirits known as the Úmaiar who were corrupted by Melkor . Among these were Gothmog and Durin's Bane .
+
+## SECTION: Appearance
+The presence of the Maiar in their unclad (invisible) form was revealed by their fragrance. However, those of the Maiar which were corrupted by Melkor ( Úmaiar ) emitted a foul stench when invisible, which is why the Úmaiar never appeared unclad when trying to deceive or persuade the Eldar.
+
+## SECTION: Etymology
+The Quenya name Maiar means "the Beautiful".
+
+## SECTION: Individuals
+Arien Aiwendil Blue Wizards Curumo Eagles (according to Tolkien c. 1970 ) Eönwë Durin's Bane Gothmog Ilmarë Mairon Melian Olórin Ossë Salmar Tilion Uinen
+
+## SECTION: Other versions of the legendarium
+In the earliest forms of the legendarium, such as The Book of Lost Tales , many beings are said to be among the lesser Ainur, including dryads and mermaids . The concept of the Maiar was introduced in the reworking of the Annals of Valinor into the Annals of Aman , and superseded most references to such beings. Lungorthin was an early Balrog, though he did not show up in later writings. In a c. 1970 text, J.R.R. Tolkien refers to the "mighty speaking eagles" as Maiar: ...The most notable were those Maiar who took the form of the mighty speaking eagles that we hear of in the legends of the war of the Ñoldor against Melkor, and who remained in the West of Middle-earth until the fall of Sauron and the Dominion of Men, after which they are not heard of again.

@@ -1,0 +1,13 @@
+TITLE: Narsil
+SOURCE: https://tolkiengateway.net/wiki/Narsil
+SOURCE SITE: Tolkien Gateway
+LICENSE: CC BY-SA 4.0
+
+## SECTION: Introduction
+Narsil was the sword of King Elendil of the Dúnedain . It was later known as Andúril .
+
+## SECTION: History
+The sword was forged "in the deeps of time", probably during the First Age , by Telchar , who was likely the famed Dwarven-smith of Nogrod of the same name who made swords for the armories of King Thingol in Menegroth . Nothing is said of Narsil during the Second Age until it eventually came into the hands of Elendil towards the close of the Second Age. Elendil carried Narsil in the Battle of Dagorlad where it shone with the light of the Sun and Moon , and then in the Siege of Barad-dûr ; but Sauron killed him and the sword broke into two pieces under him as he fell, and its light was extinguished. Elendil's son Isildur took up the sword and used its shard to cut the One Ring from the hand of Sauron. Isildur took the shards home with him. Shortly before Isildur was killed in the second year of the Third Age in the Disaster of the Gladden Fields , the shards were rescued by Ohtar , esquire of Isildur. He took them to Rivendell , where Isildur's youngest son Valandil was fostered, but Elrond foretold that it wouldn't be reforged until the One Ring was found again and Sauron returned. The Shards of Narsil were one of the heirlooms of the Kings of Arnor , and after the Northern Kingdom was destroyed they remained an heirloom of the Rangers of the North . Elrond delivered the shards of Narsil to Aragorn when he was twenty years old. It was not reforged until the War of the Ring at the end of the Third Age in Rivendell as Andúril , the "Flame of the West", for Aragorn, who was by that time the Chieftain of the Dúnedain and heir of Isildur. He carried the sword during his journey south as part of the Fellowship of the Ring , and fought with it in many instances. He referred to it as the "Sword That Was Broken" or "The Sword Reforged".
+
+## SECTION: Etymology
+Narsil is a Quenya name meaning "red and white flame". The name is said to consist of the stems NAR ("fire"; cf. nár "fire") + THIL ("white light"). It was a symbolic name, pointing to the Sun and the Moon , the " chief heavenly lights, as enemies of darkness ".
